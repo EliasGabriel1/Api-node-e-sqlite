@@ -8,7 +8,7 @@ createTable();
 router.get('/', (req, res)=> {
     res.json({
         "statusCode": 200,
-        "msg": "A Api está funcionando"
+        "msg": "A Api está funcionando na posta 3000"
     })
     }
 )
